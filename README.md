@@ -4,8 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python, Js and React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and C++
 - 👯 I’m looking to collaborate on scientific analysis
-- 💬 Ask me about Anything especially Science!
-- 📫 How to reach me: email, upwork or freelancer.com
-- ⚡ Fun fact: I don't like cats!
+- 📫 How to reach me: email, freelancer.com, or Linkedin
+
