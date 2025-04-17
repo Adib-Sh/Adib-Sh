@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m actively learning C++
+- 🌱 I’m actively learning C/C++
 - 👯 I’m looking to collaborate on scientific analysis
-- 📫 How to reach me: email or Linkedin
+- 📫 How to reach me: email or LinkedIn
 
